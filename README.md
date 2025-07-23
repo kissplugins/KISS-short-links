@@ -72,8 +72,3 @@ It appears in the post editor screen, directly beneath the permalink editor that
 
 = 1.0.0 =
 * Initial release. Basic functionality to show the short link with a text-based "Copy" button.
-
-== Upgrade Notice ==
-
-= 1.2.0 =
-This update provides a visual refresh, making the copy icon blend more seamlessly with the editor UI by removing the button background.
