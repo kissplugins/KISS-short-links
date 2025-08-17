@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:       KISS short URL plugin
+ * Plugin Name:       KISS Short Links
  * Plugin URI:        https://kissplugins.com/
  * Description:       Displays a simple, short URL (?p=ID) with a copy button below the permalink in the post editor.
  * Version:           1.2.0
- * Author:            KISSplugins.com
+ * Author:            KISS Plugins
  * Author URI:        https://kissplugins.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
